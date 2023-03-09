@@ -1,0 +1,116 @@
+*{margin: 0px;
+    margin-top: 10px;
+padding: 0px;
+box-sizing: border-box;}
+
+body {overflow:hidden;}
+
+.logo {margin-left: 6%;}
+nav ul {display: flex;}
+nav ul li { margin-top: -2.7%;
+padding-left: 8%;
+margin-left: 25%;
+margin-right: -28%;
+list-style: none;}
+
+.home{font-weight: bold;
+}
+
+.search{ margin-left: 105%;
+    margin-right: -8%;
+    margin-top: -3%;
+    border: 2px solid grey;
+    text-align: center;
+    border-radius: 5px;
+    height: 30px;
+   }
+
+main {display: flex;
+    align-items: top;
+justify-content: space-around;
+margin-left: 5%;
+margin-top: 2%;}
+
+.leftsection{ width: 40%;}
+
+.model {scale: 80%;
+    margin-top: -13%;
+    margin-left: -15%;}
+.square {width: 80%;
+    margin-top: -80%;
+margin-left: 8%;}
+
+
+.rightsection {width:50% }
+
+.globe{width: 7%;
+}
+.star { width: 5%;
+    margin-top: -80%;
+    margin-left: 75%;}
+
+.rightsection h1 { font-size: 65px;
+margin-top: 5%;
+margin-left: -8%;
+width: 110%;
+}
+
+.rightsection p { font-size: 15px;
+margin-top: 5%;
+margin-left: -10%;
+width: 100%;
+text-align: center;}
+
+.email {margin-top: 10%;
+margin-left: 25%;}
+
+.email{  border: 2px solid grey;
+    text-align: center;
+    border-radius: 5px;
+    height: 30px;
+    width: 150px;
+background-color: white;}
+.joinnow{  border: 2px solid grey;
+    text-align: center;
+    border-radius: 5px;
+    height: 30px;
+    width: 80px;
+color: white;
+background-color: black;}
+
+.rightsection h2 { margin-top: 10%;
+margin-left: 35%;}
+
+.fb { margin-left: 33%;
+width: 4%;}
+.msg { margin-left: 5px;
+    width: 4%;}
+.instagram { margin-left: 5px;
+        width: 4%;}
+.whatsapp { margin-left:5px;;
+            width: 4%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
